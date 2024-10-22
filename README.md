@@ -80,6 +80,8 @@ public static Station GetSelectStation(this List<Station> allStations) =>
                 .AddChoices(allStations.OrderBy(n => n.Id).ToArray())
                 .UseConverter(n => $"({n.Id}) {n.StationName}"));
 ```
+And looks like this
+![select](Imgs/all_select.png)
 
 The possibilities are really large, and you can create an
 interesting-looking console application.
