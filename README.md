@@ -1,3 +1,5 @@
+![image](Imgs/gios_cl.gif)
+
 When we wanting to make a nice and modern console application, in Net
 we have some cool libraries, but got in my hands on 
 [Spectre](https://github.com/spectreconsole/spectre.console) and [Cocona](https://github.com/mayuki/Cocona).
